@@ -28,9 +28,9 @@ It also helps identify **churn profiles**, **predict potential churners**, and d
 
 ## 📷 Dashboard Screenshots
 
-*(Add screenshots after publishing your Power BI dashboard)*  
-![](images/Dashboard_Summary.png)  
-![](images/Dashboard_ChurnReason.png)  
+
+![](https://github.com/pratiik1516/Customer-Churn-Analysis-/blob/main/CUSTOMER%20CHURN%20ANALYSIS.png)  
+
 
 ---
 
